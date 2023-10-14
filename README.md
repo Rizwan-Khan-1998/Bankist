@@ -5,13 +5,13 @@ I have completed advanced dom project of JavaScript Zero to Expert course by Jon
 
 ## Project Highlights
 
-- **DOM Manipulation**: I have mastered the art of manipulating the Document Object Model (DOM) using JavaScript. This includes working with event listeners, event bubbling and capturing, event delegation, and traversing through the DOM to create dynamic and responsive web pages.
+- **DOM Manipulation**: I have mastered the art of manipulating the Document Object Model (DOM) using JavaScript. This includes working with event listeners, event bubbling and capturing, event delegation, and traversing through the DOM to create dynamic web pages.
 
-- **Intersection Observer API**: I have utilized the Intersection Observer API to create animations triggered by scrolling. This adds a visually appealing and interactive element to the website, making it more engaging for users.
+- **Intersection Observer API**: I have utilized the Intersection Observer API to create animations triggered by scrolling. This adds a visually appealing and interactive element to the website.
 
-- **Tabbed Component**: I have implemented a tabbed component that allows users to switch between different sections of content within a single webpage. This enhances the user experience by organizing and presenting information in a structured manner.
+- **Tabbed Component**: I have implemented a tabbed component that allows users to switch between different content.
 
-- **Sticky Navbar**: I have designed and implemented a sticky navigation bar that remains fixed at the top of the page as the user scrolls. This provides easy navigation and enhances the overall usability of the website.
+- **Sticky Navbar**: I have designed and implemented a sticky navigation bar that remains fixed at the top of the page as the user scrolls.
 
 - **Slider**: I have created a slider component that allows users to view and interact with a series of images or content in a visually appealing and user-friendly way.
 
