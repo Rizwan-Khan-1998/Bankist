@@ -1,4 +1,4 @@
-# Bankist-Jonas
+# Bankist
 ## Overview
 
 I have completed advanced dom project of JavaScript Zero to Expert course by Jonas Schmedtmann on Udemy. In this project, I have applied the skills and knowledge gained from the course to create a dynamic and interactive web application.
@@ -26,7 +26,7 @@ I have completed advanced dom project of JavaScript Zero to Expert course by Jon
 
 # Demo
 ## Desktop-Only Experience
-**Bankist-jonas layout and functionality are optimized for larger screens. I have not implemented responsive design features to adapt to different screen sizes.**
+**Bankist's app layout and functionality are optimized for larger screens. I have not implemented responsive design features to adapt to different screen sizes.**
 
 You can view a live demo of this project **[here](https://bankist-app-jonas.netlify.app/)**
 
