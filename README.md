@@ -24,6 +24,10 @@ I have completed advanced dom project of JavaScript Zero to Expert course by Jon
 - JavaScript
 
 
-## Demo
+# Demo
+## Desktop-Only Experience
+**Bankist is tailored for desktop use, and its layout and functionality are optimized for larger screens and traditional desktop browsers. We have not implemented responsive design features to adapt to different screen sizes.**
 
-You can view a live demo of this project [here](https://bankist-app-jonas.netlify.app/)
+You can view a live demo of this project **[here](https://bankist-app-jonas.netlify.app/)**
+
+
